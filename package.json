@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe-react",
+  "version": "1.0.0",
+  "description": "tic-tac-toe game created using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadam189/tic-tac-toe-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadam189/tic-tac-toe-react/issues"
+  },
+  "homepage": "https://github.com/chadam189/tic-tac-toe-react#readme"
+}
